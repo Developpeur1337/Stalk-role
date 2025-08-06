@@ -4,24 +4,35 @@
 
 ## Description
 
-Un bot Discord simple mais puissant qui **traque l’ajout de rôles spécifiques** sur votre serveur. Dès qu’un rôle ciblé est ajouté à un membre, le bot :
+Un bot Discord simple mais puissant qui **traque l’ajout et la suppression de rôles spécifiques** sur votre serveur. Dès qu’un rôle ciblé est **ajouté ou retiré** à un membre, le bot :
 - 🔍 détecte l’événement en temps réel
 - 📤 log l'action dans un salon défini
-- 📅 indique la date, l’auteur de l’ajout et le membre ciblé
+- 👮 affiche qui a effectué l’action
+- 📅 indique la date, le rôle concerné et le membre ciblé
 
-Le bot utilise exclusivement des **commandes slash** (full slash commands) pour une meilleure intégration et ergonomie.
+Le bot utilise exclusivement des **commandes slash** (*full slash commands*) pour une intégration moderne et ergonomique.
 
 ---
 
 ## Fonctionnalités principales
 
-- Surveillance d’un ou plusieurs rôles spécifiques
-- Logs clair avec embeds : rôle ajouté, par qui, à qui, quand
+- Surveillance de l’**ajout** et de la **suppression** de rôles spécifiques
+- Logs clairs avec embeds :
+  - 🎭 rôle ajouté ou retiré
+  - 👮 exécutant
+  - 👤 membre concerné
+  - 🕒 date et heure exacte
 - Léger, rapide, facile à configurer
 
+---
+
 ## Crédits & Contact
-Développé par Developpeur1337
-Pour toute question, suggestion ou aide supplémentaire, contacte moi sur Discord : @developpeur1337
+
+Développé par **Developpeur1337**
+
+Pour toute question, suggestion ou aide supplémentaire, contacte-moi sur Discord : `@developpeur1337`
+
+---
 
 ## Installation
 
